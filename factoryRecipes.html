@@ -64,11 +64,11 @@
 				iconTable = csvToArray(data);
 			})
 
-			$.get("https://raw.githubusercontent.com/Yellofishy/civu/master/mcItemNames.txt", (data) => {
+			$.get("https://raw.githubusercontent.com/Yellofishy/civreign/main/mcItemNames.txt", (data) => {
 				itemNameTable = csvToArray(data);
 			})
 
-			$.get("https://raw.githubusercontent.com/Yellofishy/civu/master/factoryConfig-custom.yml", (data) => {
+			$.get("https://raw.githubusercontent.com/Yellofishy/civreign/main/factoryConfig-custom.yml", (data) => {
 			//$.get("https://raw.githubusercontent.com/ShenanMC/shenanmc.github.io/master/factoryConfig-original.yml", (data) => {
 				config = YAML.parse(data);
 				factories = config.factories;
