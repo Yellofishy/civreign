@@ -1,0 +1,9 @@
+# Possible Upcoming Features
+    (Note that this is just a list of things I am considering, no promises)
+    - Item search page, with details on how to obtain the item (factory recipe/crafting) + possibly other info
+    - Make factory recipes look nicer, possibly some item icons?
+    - General plugin guides, such as ItemExchange and Factory basics
+    - Server intro guide -> link to more detailed plugin guides?
+    - RealisticBiomes configuration tables
+# 4 Apr 2022
+init
