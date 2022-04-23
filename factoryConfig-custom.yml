@@ -1271,7 +1271,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Helmet
     type: PRODUCTION
-    production_time: 900s
+    production_time: 15m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1292,7 +1292,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Chestplate
     type: PRODUCTION
-    production_time: 600s
+    production_time: 10m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1313,7 +1313,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Leggings
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1334,7 +1334,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Boots
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1355,7 +1355,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Helmet
     type: PRODUCTION
-    production_time: 900s
+    production_time: 15m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1385,7 +1385,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Chestplate
     type: PRODUCTION
-    production_time: 600s
+    production_time: 10m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1415,7 +1415,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Leggings
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1445,7 +1445,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Boots
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1475,7 +1475,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Helmet
     type: PRODUCTION
-    production_time: 3600s
+    production_time: 1h
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1510,7 +1510,7 @@ recipes:
     fuel_consumption_intervall: 99999s
     name: Forge Mithril Armor Sets
     type: PRODUCTION
-    production_time: 28800s
+    production_time: 8h
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1559,7 +1559,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Sword
     type: PRODUCTION
-    production_time: 900s
+    production_time: 15m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1580,7 +1580,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Pickaxe
     type: PRODUCTION
-    production_time: 600s
+    production_time: 10m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1601,7 +1601,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Shovel
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1622,7 +1622,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Axe
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1643,7 +1643,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Hoe
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1664,7 +1664,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Sword
     type: PRODUCTION
-    production_time: 900s
+    production_time: 15m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1698,7 +1698,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Pickaxe
     type: PRODUCTION
-    production_time: 600s
+    production_time: 10m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1728,7 +1728,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Shovel
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1757,7 +1757,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Axe
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1786,7 +1786,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Hoe
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1815,7 +1815,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Sword
     type: PRODUCTION
-    production_time: 7200s
+    production_time: 2h
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1838,7 +1838,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Pickaxe
     type: PRODUCTION
-    production_time: 5400s
+    production_time: 90m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1861,7 +1861,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Shovel
     type: PRODUCTION
-    production_time: 2700s
+    production_time: 45m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1884,7 +1884,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Axe
     type: PRODUCTION
-    production_time: 2700s
+    production_time: 45m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1907,7 +1907,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal Hoe
     type: PRODUCTION
-    production_time: 2700s
+    production_time: 45m
     input:
       starmetal:
         material: GOLD_INGOT
@@ -1930,7 +1930,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Sword
     type: PRODUCTION
-    production_time: 7200s
+    production_time: 2h
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1965,7 +1965,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Pickaxe
     type: PRODUCTION
-    production_time: 5400s
+    production_time: 90m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -1996,7 +1996,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Shovel
     type: PRODUCTION
-    production_time: 2700s
+    production_time: 45m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -2027,7 +2027,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Axe
     type: PRODUCTION
-    production_time: 2700s
+    production_time: 45m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -2058,7 +2058,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Forge Mithril Hoe
     type: PRODUCTION
-    production_time: 300s
+    production_time: 5m
     input:
       mithrilmetal:
         material: GOLD_INGOT
@@ -2089,7 +2089,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Intermediate Alloy Factory
     type: UPGRADE
-    production_time: 43200s
+    production_time: 12h
     factory: Intermediate Alloy Factory
     input:
       starmetal:
@@ -2121,7 +2121,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Elite Alloy Factory
     type: UPGRADE
-    production_time: 86400s
+    production_time: 1d
     factory: Elite Alloy Factory
     input:
       starmetal:
@@ -2146,7 +2146,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Elite Gem Refinery
     type: UPGRADE
-    production_time: 259200s
+    production_time: 3d
     factory: Elite Gem Refinery
     input:
       mithril:
@@ -2189,7 +2189,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Intermediate Gem Refinery
     type: UPGRADE
-    production_time: 86400s
+    production_time: 1d
     input:
       starmetal:
         material: GOLD_INGOT
@@ -2230,7 +2230,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Elite Ore Refinery
     type: UPGRADE
-    production_time: 259200s
+    production_time: 3d
     factory: Elite Ore Refinery
     input:
       mithril:
@@ -2273,7 +2273,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Intermediate Ore Refinery
     type: UPGRADE
-    production_time: 86400s
+    production_time: 1d
     input:
       starmetal:
         material: GOLD_INGOT
@@ -2314,7 +2314,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Elite Fuel Refinery
     type: UPGRADE
-    production_time: 259200s
+    production_time: 3d
     factory: Elite Fuel Refinery
     input:
       mithril:
@@ -2357,7 +2357,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Intermediate Fuel Refinery
     type: UPGRADE
-    production_time: 86400s
+    production_time: 1d
     input:
       starmetal:
         material: GOLD_INGOT
@@ -2398,7 +2398,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Intermediate Refinery
     type: UPGRADE
-    production_time: 28800s
+    production_time: 8h
     input:
       steel:
         material: GOLD_INGOT
@@ -2435,7 +2435,7 @@ recipes:
     fuel_consumption_intervall: 9999s
     name: Upgrade to Elite Refinery
     type: UPGRADE
-    production_time: 86400s
+    production_time: 1d
     input:
       starmetal:
         material: GOLD_INGOT
@@ -4039,7 +4039,7 @@ recipes:
         amount: 9
   crude_forge_steel:
     fuel_consumption_intervall: 9999s
-    production_time: 600s
+    production_time: 10m
     name: Forge Steel
     type: PRODUCTION
     input:
@@ -4057,7 +4057,7 @@ recipes:
         nbt:
           CustomModelData: 1
   crude_forge_starmetal:
-    production_time: 1800s
+    production_time: 30m
     fuel_consumption_intervall: 9999s
     name: Forge Starmetal
     type: PRODUCTION
@@ -4111,7 +4111,7 @@ recipes:
           CustomModelData: 1
   intermediate_forge_starmetal:
     fuel_consumption_intervall: 9999s
-    production_time: 1500s
+    production_time: 25m
     name: Forge Starmetal
     type: PRODUCTION
     input:
@@ -4145,7 +4145,7 @@ recipes:
           CustomModelData: 2
   intermediate_forge_geminite:
     fuel_consumption_intervall: 9999s
-    production_time: 3000s
+    production_time: 50m
     name: Forge Starmetal
     type: PRODUCTION
     input:
@@ -4180,7 +4180,7 @@ recipes:
           CustomModelData: 4
   intermediate_forge_mithril:
     fuel_consumption_intervall: 9999s
-    production_time: 3000s
+    production_time: 50m
     name: Forge Starmetal
     type: PRODUCTION
     input:
